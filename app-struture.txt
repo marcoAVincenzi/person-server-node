@@ -1,0 +1,22 @@
+-- controllers
+    - person.controller.js
+-- middlewares
+    - index.js
+-- models
+    - person.model.js
+-- services
+    - person.service.js 
+    - index.js
+db.js
+index.js
+
+
+
+npm install -g nodemon
+npm i express
+npm i body-parser
+npm i mongoose
+npm i cors
+
+
+execute: nodemon index.js
